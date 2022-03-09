@@ -55,13 +55,20 @@
 
 
 ## 📈 &nbsp;Some Github Stats ##
-<span align="left">
 
-![Mullaivanaraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mullaivanaraj&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
-<span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mullaivanaraj&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mullaivanaraj"><img src="https://github-readme-stats.vercel.app/api?username=mullaivanaraj&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="mullaivanaraj's GitHub stats" /></a>
+
+<a href="http://www.github.com/mullaivanaraj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mullaivanaraj&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/mullaivanaraj"><img src="https://activity-graph.herokuapp.com/graph?username=mullaivanaraj&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/mullaivanaraj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullaivanaraj&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/mullaivanaraj"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <!-- ## 🫂 How to support me ##
 <a href="https://www.buymeacoffee.com/th3wall" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
