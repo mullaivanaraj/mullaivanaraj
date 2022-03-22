@@ -8,7 +8,7 @@ Front-End Developer
   <p>Hey there, welcome!</br>
   I'm Mullaivanaraj, Front End developer from <b>Chennai, India</b>.</p>
   	
-  💡 &nbsp;I like to explore new trends and learn new technologies.\
+  💡 &nbsp;I like to explore new trends and learn new technologies.
   🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a>, 
    <a style="color:#764ABC" href="https://angular.io/" target="_blank"><u>Angular</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
 <!--   ✍🏼 &nbsp;I've recently started writing some articles on <a href="#" target="_blank"><u>my brand new blog</u></a>.\
