@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="15px" height="5px"/>&nbsp;<b>Hi, I'm Mullaivanaraj! </b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="25px" height="25px"/>&nbsp;<b>Hi, I'm Mullaivanaraj! </b>
 Front-End Developer
 ------------------
 <br>
