@@ -8,7 +8,7 @@ Front-End Developer
   <p>Hey there, welcome!</br>
   I'm Mullaivanaraj, Front End developer from <b>Chennai, India</b>.</p>
   	
-  💡 &nbsp;I like to explore current trends and learn new technologies.
+  💡 &nbsp;I like to explore new trends and learn new technologies.
   
   👀 &nbsp;I have an eye for Blockchain and Machine learning.
   
